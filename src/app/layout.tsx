@@ -15,13 +15,15 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
-      <body>
+      <head>
         <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2824959172169836"
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
+      </head>
+      <body>
         <a href="#main-content" className="sr-only focus:not-sr-only focus:absolute focus:z-20 focus:bg-white focus:p-3">Skip to content</a>
         <header className="border-b border-slate-200 bg-white">
           <nav aria-label="Main" className="relative mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-x-6 gap-y-3 px-5 py-5 sm:px-8">
