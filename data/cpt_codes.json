@@ -1,0 +1,1747 @@
+{
+  "year": 2026,
+  "release": "RVU26A",
+  "source": "https://www.cms.gov/medicare/payment/fee-schedules/physician/pfs-relative-value-files/rvu26a",
+  "codes": [
+    {
+      "code": "99213",
+      "category": "Office visits",
+      "description": "Follow-up visit with low-complexity decision-making",
+      "billingPitfalls": [
+        "Check whether a same-day screening or procedure explains a separate visit line."
+      ],
+      "faqs": [
+        {
+          "question": "Who is this visit for?",
+          "answer": "An established patient receiving outpatient evaluation."
+        },
+        {
+          "question": "Does a short visit automatically qualify?",
+          "answer": "The billed level can be based on documented decision-making or qualifying clinician time."
+        },
+        {
+          "question": "Why is it on my preventive visit bill?",
+          "answer": "A separately addressed problem can produce a separate charge."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.3,
+      "nonFacilityPeRvu": 1.46,
+      "facilityPeRvu": 0.33,
+      "mpRvu": 0.09,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99214",
+      "category": "Office visits",
+      "description": "Follow-up visit with moderate-complexity decision-making",
+      "billingPitfalls": [
+        "The number of diagnoses alone does not establish the visit level."
+      ],
+      "faqs": [
+        {
+          "question": "Can medication management affect this code?",
+          "answer": "Prescription management can contribute to the documented risk level."
+        },
+        {
+          "question": "Does 99214 mean I saw a specialist?",
+          "answer": "It identifies the visit level regardless of specialty."
+        },
+        {
+          "question": "Can time be used for this level?",
+          "answer": "Yes, qualifying clinician time on the service date may support it."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.92,
+      "nonFacilityPeRvu": 2.0,
+      "facilityPeRvu": 0.47,
+      "mpRvu": 0.14,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99215",
+      "category": "Office visits",
+      "description": "Follow-up visit with high-complexity decision-making",
+      "billingPitfalls": [
+        "Time spent on separately billed procedures should be excluded if time determines the visit level."
+      ],
+      "faqs": [
+        {
+          "question": "Is this the highest established office visit level?",
+          "answer": "Yes, within the standard established office visit series."
+        },
+        {
+          "question": "Does a serious diagnosis alone determine this code?",
+          "answer": "The code depends on documented decision-making or qualifying time."
+        },
+        {
+          "question": "Why might the line appear after medication changes?",
+          "answer": "Managing high-risk treatment may contribute to complexity."
+        }
+      ],
+      "status": "A",
+      "workRvu": 2.8,
+      "nonFacilityPeRvu": 2.75,
+      "facilityPeRvu": 0.75,
+      "mpRvu": 0.21,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99202",
+      "category": "Office visits",
+      "description": "New-patient office visit with straightforward decision-making",
+      "billingPitfalls": [
+        "Check established-patient history within the same specialty and group."
+      ],
+      "faqs": [
+        {
+          "question": "Does paperwork alone count as a visit?",
+          "answer": "The code describes professional evaluation and management."
+        },
+        {
+          "question": "Can a specialist use this code?",
+          "answer": "Yes, if the new-patient criteria and visit level are met."
+        },
+        {
+          "question": "Can the bill include testing?",
+          "answer": "Separate testing can appear when supported."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.93,
+      "nonFacilityPeRvu": 1.25,
+      "facilityPeRvu": 0.23,
+      "mpRvu": 0.07,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99203",
+      "category": "Office visits",
+      "description": "New-patient office visit with low-complexity decision-making",
+      "billingPitfalls": [
+        "A first visit at a new location may still count as established within the same group and specialty."
+      ],
+      "faqs": [
+        {
+          "question": "What does new patient mean?",
+          "answer": "Prior professional services from the same specialty and group can affect new-patient status."
+        },
+        {
+          "question": "Can I see this on an urgent care bill?",
+          "answer": "It can appear when the setting and coding rules support an outpatient visit."
+        },
+        {
+          "question": "Does this cover laboratory work?",
+          "answer": "Labs may be listed separately."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.6,
+      "nonFacilityPeRvu": 1.76,
+      "facilityPeRvu": 0.38,
+      "mpRvu": 0.16,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99204",
+      "category": "Office visits",
+      "description": "New-patient office visit with moderate-complexity decision-making",
+      "billingPitfalls": [
+        "A referral by itself does not support a higher level."
+      ],
+      "faqs": [
+        {
+          "question": "Why would a new evaluation use this level?",
+          "answer": "Documented moderate decision-making or qualifying time may support it."
+        },
+        {
+          "question": "Is this always a consultation code?",
+          "answer": "It is an outpatient new-patient visit code."
+        },
+        {
+          "question": "Can records review count?",
+          "answer": "Qualifying clinician review on the encounter date can contribute to time."
+        }
+      ],
+      "status": "A",
+      "workRvu": 2.6,
+      "nonFacilityPeRvu": 2.47,
+      "facilityPeRvu": 0.66,
+      "mpRvu": 0.24,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99205",
+      "category": "Office visits",
+      "description": "New-patient office visit with high-complexity decision-making",
+      "billingPitfalls": [
+        "Verify that time attributed to other billed procedures was excluded where applicable."
+      ],
+      "faqs": [
+        {
+          "question": "Is this the highest new office visit level?",
+          "answer": "Yes, within the standard new office visit series."
+        },
+        {
+          "question": "Can care planning affect the level?",
+          "answer": "Qualifying work can contribute when documented."
+        },
+        {
+          "question": "Why is my charge higher than another new visit?",
+          "answer": "The service level and contract can differ."
+        }
+      ],
+      "status": "A",
+      "workRvu": 3.5,
+      "nonFacilityPeRvu": 3.23,
+      "facilityPeRvu": 0.94,
+      "mpRvu": 0.36,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99211",
+      "category": "Office visits",
+      "description": "Brief established-patient office service",
+      "billingPitfalls": [
+        "Check whether a separately reported injection or procedure already covers the staff work."
+      ],
+      "faqs": [
+        {
+          "question": "Must a physician always see me?",
+          "answer": "This code may apply to a qualifying staff service under applicable supervision."
+        },
+        {
+          "question": "Can it appear for a blood pressure check?",
+          "answer": "It can when the encounter supports a distinct management service."
+        },
+        {
+          "question": "Does a nurse visit always qualify?",
+          "answer": "The record and payer requirements determine eligibility."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.18,
+      "nonFacilityPeRvu": 0.54,
+      "facilityPeRvu": 0.04,
+      "mpRvu": 0.01,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99212",
+      "category": "Office visits",
+      "description": "Follow-up visit with straightforward decision-making",
+      "billingPitfalls": [
+        "A routine post-op visit may be included in the surgery package."
+      ],
+      "faqs": [
+        {
+          "question": "Is this for an established patient?",
+          "answer": "Yes."
+        },
+        {
+          "question": "Can it include checking one minor issue?",
+          "answer": "A straightforward evaluation may fit if documented."
+        },
+        {
+          "question": "Can an imaging charge appear too?",
+          "answer": "A separately performed study can appear on another line."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.7,
+      "nonFacilityPeRvu": 1.02,
+      "facilityPeRvu": 0.17,
+      "mpRvu": 0.06,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99282",
+      "category": "Emergency care",
+      "description": "Emergency department visit with straightforward decision-making",
+      "billingPitfalls": [
+        "Emergency visit levels do not map directly to triage priority."
+      ],
+      "faqs": [
+        {
+          "question": "Does this cover an emergency department evaluation?",
+          "answer": "Yes, it represents an evaluation level."
+        },
+        {
+          "question": "Can a simple concern be billed at this level?",
+          "answer": "The documented decision-making can support this level."
+        },
+        {
+          "question": "Does it include every test?",
+          "answer": "Testing and imaging may be separately itemized."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.93,
+      "nonFacilityPeRvu": 0.17,
+      "facilityPeRvu": 0.17,
+      "mpRvu": 0.11,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99283",
+      "category": "Emergency care",
+      "description": "Emergency department visit with low-complexity decision-making",
+      "billingPitfalls": [
+        "The number of hours spent waiting does not determine the professional ED level."
+      ],
+      "faqs": [
+        {
+          "question": "Can this appear after a minor injury?",
+          "answer": "It can when the documented evaluation supports this level."
+        },
+        {
+          "question": "Does a discharge home establish this level?",
+          "answer": "Discharge disposition alone does not determine coding."
+        },
+        {
+          "question": "Why is there an X-ray charge too?",
+          "answer": "Diagnostic imaging may be a separately reported service."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.6,
+      "nonFacilityPeRvu": 0.28,
+      "facilityPeRvu": 0.28,
+      "mpRvu": 0.2,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99284",
+      "category": "Emergency care",
+      "description": "Emergency department visit with moderate-complexity decision-making",
+      "billingPitfalls": [
+        "Compare the issuer of each ED line before treating matching codes as duplicates."
+      ],
+      "faqs": [
+        {
+          "question": "Can my physician and hospital both bill for the ED visit?",
+          "answer": "Separate entities may bill for distinct professional and facility services."
+        },
+        {
+          "question": "Does an imaging order automatically set the level?",
+          "answer": "The full documented decision-making matters."
+        },
+        {
+          "question": "Is this typical of an admission?",
+          "answer": "It can appear whether or not you are admitted."
+        }
+      ],
+      "status": "A",
+      "workRvu": 2.74,
+      "nonFacilityPeRvu": 0.45,
+      "facilityPeRvu": 0.45,
+      "mpRvu": 0.35,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99285",
+      "category": "Emergency care",
+      "description": "Emergency department visit with high-complexity decision-making",
+      "billingPitfalls": [
+        "Check whether critical care was separately documented if both types of service appear."
+      ],
+      "faqs": [
+        {
+          "question": "Does this mean I was admitted?",
+          "answer": "High-complexity ED care can occur without admission."
+        },
+        {
+          "question": "Is this the same as critical care?",
+          "answer": "Critical care has distinct criteria and codes."
+        },
+        {
+          "question": "Do tests establish high complexity by themselves?",
+          "answer": "The whole encounter and documented decision-making determine the level."
+        }
+      ],
+      "status": "A",
+      "workRvu": 4.0,
+      "nonFacilityPeRvu": 0.65,
+      "facilityPeRvu": 0.65,
+      "mpRvu": 0.48,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99291",
+      "category": "Emergency care",
+      "description": "Initial period of critical care for a life-threatening condition",
+      "billingPitfalls": [
+        "Time spent on separately billable procedures generally does not count as critical care time."
+      ],
+      "faqs": [
+        {
+          "question": "Does ICU location alone qualify?",
+          "answer": "Critical care depends on the condition, services, and qualifying time."
+        },
+        {
+          "question": "Can this happen in the ED?",
+          "answer": "Yes, qualifying critical care can occur there."
+        },
+        {
+          "question": "Why is 99292 also listed?",
+          "answer": "It can identify additional qualifying critical care time."
+        }
+      ],
+      "status": "A",
+      "workRvu": 4.5,
+      "nonFacilityPeRvu": 4.29,
+      "facilityPeRvu": 1.0,
+      "mpRvu": 0.46,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99221",
+      "category": "Hospital visits",
+      "description": "Initial inpatient or observation evaluation at the first visit level",
+      "billingPitfalls": [
+        "Distinguish initial hospital evaluation from daily follow-up codes."
+      ],
+      "faqs": [
+        {
+          "question": "Can this appear during observation?",
+          "answer": "The initial hospital series can apply to observation care."
+        },
+        {
+          "question": "Does this charge include the hospital bed?",
+          "answer": "This estimate covers clinician services."
+        },
+        {
+          "question": "Can two specialists evaluate me?",
+          "answer": "Distinct services may be separately billed under applicable rules."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.63,
+      "nonFacilityPeRvu": 0.41,
+      "facilityPeRvu": 0.41,
+      "mpRvu": 0.19,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99222",
+      "category": "Hospital visits",
+      "description": "Initial inpatient or observation evaluation at the middle visit level",
+      "billingPitfalls": [
+        "Admission duration alone does not establish the level."
+      ],
+      "faqs": [
+        {
+          "question": "Can admitting paperwork explain this charge?",
+          "answer": "The code represents clinician evaluation and management."
+        },
+        {
+          "question": "Why does a hospitalist bill it?",
+          "answer": "A hospitalist may perform the initial evaluation."
+        },
+        {
+          "question": "Can it be followed by a different visit code?",
+          "answer": "Subsequent care uses a separate code series."
+        }
+      ],
+      "status": "A",
+      "workRvu": 2.6,
+      "nonFacilityPeRvu": 0.67,
+      "facilityPeRvu": 0.67,
+      "mpRvu": 0.23,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99223",
+      "category": "Hospital visits",
+      "description": "Initial inpatient or observation evaluation at the highest visit level",
+      "billingPitfalls": [
+        "Review distinct same-day ED and admission lines with the billing office if the same clinician appears."
+      ],
+      "faqs": [
+        {
+          "question": "Does this describe the full hospital stay?",
+          "answer": "It represents an initial professional evaluation."
+        },
+        {
+          "question": "Why might it be used on a complicated admission?",
+          "answer": "Documented high complexity or qualifying time may support this level."
+        },
+        {
+          "question": "Does observation exclude it?",
+          "answer": "The series can apply to inpatient or observation services."
+        }
+      ],
+      "status": "A",
+      "workRvu": 3.5,
+      "nonFacilityPeRvu": 0.9,
+      "facilityPeRvu": 0.9,
+      "mpRvu": 0.28,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99231",
+      "category": "Hospital visits",
+      "description": "Subsequent inpatient or observation evaluation at the first visit level",
+      "billingPitfalls": [
+        "Match daily visit lines to dates and clinicians."
+      ],
+      "faqs": [
+        {
+          "question": "Can this be billed after an initial evaluation?",
+          "answer": "Yes, it describes a later hospital encounter."
+        },
+        {
+          "question": "Does a nurse rounding visit explain it?",
+          "answer": "The line represents a qualifying professional evaluation."
+        },
+        {
+          "question": "Can the next day have a higher code?",
+          "answer": "The documented work can vary by day."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.0,
+      "nonFacilityPeRvu": 0.24,
+      "facilityPeRvu": 0.24,
+      "mpRvu": 0.08,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99232",
+      "category": "Hospital visits",
+      "description": "Subsequent inpatient or observation evaluation at the middle visit level",
+      "billingPitfalls": [
+        "Repeated dates may need clarification when the same practice bills multiple lines."
+      ],
+      "faqs": [
+        {
+          "question": "Is this the admission code?",
+          "answer": "It describes care after an initial hospital evaluation."
+        },
+        {
+          "question": "Can it occur on consecutive days?",
+          "answer": "Separate documented visits may be reported on different dates."
+        },
+        {
+          "question": "Can medication decisions contribute?",
+          "answer": "They may affect the documented complexity."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.59,
+      "nonFacilityPeRvu": 0.4,
+      "facilityPeRvu": 0.4,
+      "mpRvu": 0.12,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99233",
+      "category": "Hospital visits",
+      "description": "Subsequent inpatient or observation evaluation at the highest visit level",
+      "billingPitfalls": [
+        "High complexity or qualifying time needs documentation for the specific date."
+      ],
+      "faqs": [
+        {
+          "question": "Is this specific to the ICU?",
+          "answer": "It can apply in other hospital settings."
+        },
+        {
+          "question": "Why did the level increase?",
+          "answer": "A change in care needs may change the documented work."
+        },
+        {
+          "question": "Does this cover room and board?",
+          "answer": "Room charges are separate from professional evaluation."
+        }
+      ],
+      "status": "A",
+      "workRvu": 2.4,
+      "nonFacilityPeRvu": 0.62,
+      "facilityPeRvu": 0.62,
+      "mpRvu": 0.18,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "99395",
+      "category": "Preventive care",
+      "description": "Routine preventive visit for an established adult age 18–39",
+      "billingPitfalls": [
+        "An annual physical differs from a Medicare wellness visit."
+      ],
+      "faqs": [
+        {
+          "question": "Is this for preventive care?",
+          "answer": "It describes routine preventive evaluation in that age group."
+        },
+        {
+          "question": "Can a symptom evaluation be billed separately?",
+          "answer": "A distinct problem-focused service can generate its own charge."
+        },
+        {
+          "question": "Does Original Medicare generally cover routine physicals?",
+          "answer": "Medicare wellness visits use different codes."
+        }
+      ],
+      "status": "N",
+      "workRvu": 1.75,
+      "nonFacilityPeRvu": 1.78,
+      "facilityPeRvu": 0.38,
+      "mpRvu": 0.11,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "99396",
+      "category": "Preventive care",
+      "description": "Routine preventive visit for an established adult age 40–64",
+      "billingPitfalls": [
+        "Verify whether labs ordered at the physical are covered separately."
+      ],
+      "faqs": [
+        {
+          "question": "Can this include preventive counseling?",
+          "answer": "Routine preventive guidance can be part of the visit."
+        },
+        {
+          "question": "Is a diagnostic screening test automatically included?",
+          "answer": "Tests can be separate services."
+        },
+        {
+          "question": "Does an insurer always waive cost sharing?",
+          "answer": "Benefits depend on plan and service details."
+        }
+      ],
+      "status": "N",
+      "workRvu": 1.9,
+      "nonFacilityPeRvu": 1.84,
+      "facilityPeRvu": 0.41,
+      "mpRvu": 0.12,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "99397",
+      "category": "Preventive care",
+      "description": "Routine preventive visit for an established adult age 65 or older",
+      "billingPitfalls": [
+        "A Medicare annual wellness visit usually uses a different code."
+      ],
+      "faqs": [
+        {
+          "question": "Is this a Medicare wellness visit?",
+          "answer": "It describes a routine physical, which differs from Medicare wellness services."
+        },
+        {
+          "question": "Does it imply a separate exam charge?",
+          "answer": "Ask whether a problem-focused service was also billed."
+        },
+        {
+          "question": "Can my supplemental plan cover it?",
+          "answer": "Confirm the benefit with your insurer."
+        }
+      ],
+      "status": "N",
+      "workRvu": 2.0,
+      "nonFacilityPeRvu": 2.04,
+      "facilityPeRvu": 0.43,
+      "mpRvu": 0.12,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "80053",
+      "category": "Lab tests",
+      "description": "Blood panel checking metabolism, electrolytes, kidney markers, and liver markers",
+      "billingPitfalls": [
+        "Check whether separately billed analytes overlap with the panel on the same specimen."
+      ],
+      "faqs": [
+        {
+          "question": "Is this the same as a basic metabolic panel?",
+          "answer": "The comprehensive panel adds liver and protein markers."
+        },
+        {
+          "question": "Does it include blood cell counts?",
+          "answer": "A CBC is a different test."
+        },
+        {
+          "question": "Why is there no PFS estimate?",
+          "answer": "Medicare generally prices this lab test under its Clinical Laboratory Fee Schedule."
+        }
+      ],
+      "status": "X",
+      "workRvu": 0.0,
+      "nonFacilityPeRvu": 0.0,
+      "facilityPeRvu": 0.0,
+      "mpRvu": 0.0,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "80048",
+      "category": "Lab tests",
+      "description": "Blood panel checking glucose, electrolytes, and kidney markers",
+      "billingPitfalls": [
+        "Compare same-day comprehensive and basic metabolic panels for overlapping analytes."
+      ],
+      "faqs": [
+        {
+          "question": "Does this include liver enzymes?",
+          "answer": "A basic metabolic panel does not generally include liver enzymes."
+        },
+        {
+          "question": "Can the lab bill twice in one day?",
+          "answer": "A medically necessary repeat may be separately reported when supported."
+        },
+        {
+          "question": "Does a draw charge describe the panel?",
+          "answer": "Collection and analysis are different services."
+        }
+      ],
+      "status": "X",
+      "workRvu": 0.0,
+      "nonFacilityPeRvu": 0.0,
+      "facilityPeRvu": 0.0,
+      "mpRvu": 0.0,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "80061",
+      "category": "Lab tests",
+      "description": "Blood panel measuring cholesterol and triglycerides",
+      "billingPitfalls": [
+        "Check whether a separately billed direct LDL test was needed."
+      ],
+      "faqs": [
+        {
+          "question": "Does this include HDL?",
+          "answer": "HDL is part of a typical lipid panel."
+        },
+        {
+          "question": "Do I need to fast?",
+          "answer": "Follow the ordering clinician's instructions for your test."
+        },
+        {
+          "question": "Can it appear on a screening bill?",
+          "answer": "Yes, lipid testing can be preventive or diagnostic depending on the order."
+        }
+      ],
+      "status": "X",
+      "workRvu": 0.0,
+      "nonFacilityPeRvu": 0.0,
+      "facilityPeRvu": 0.0,
+      "mpRvu": 0.0,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "85025",
+      "category": "Lab tests",
+      "description": "Complete blood count with automated white-cell breakdown",
+      "billingPitfalls": [
+        "Check whether a CBC without differential appears on the same draw."
+      ],
+      "faqs": [
+        {
+          "question": "What does the differential add?",
+          "answer": "It reports the distribution of white blood cell types."
+        },
+        {
+          "question": "Does this include metabolic tests?",
+          "answer": "Those are billed as separate laboratory services."
+        },
+        {
+          "question": "Why is the PFS estimate unavailable?",
+          "answer": "Medicare generally prices this code under its laboratory schedule."
+        }
+      ],
+      "status": "X",
+      "workRvu": 0.0,
+      "nonFacilityPeRvu": 0.0,
+      "facilityPeRvu": 0.0,
+      "mpRvu": 0.0,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "85027",
+      "category": "Lab tests",
+      "description": "Complete blood count without a white-cell breakdown",
+      "billingPitfalls": [
+        "Compare with 85025 when reviewing multiple CBC charges."
+      ],
+      "faqs": [
+        {
+          "question": "Does it count white cells?",
+          "answer": "It reports the total white-cell count without a differential."
+        },
+        {
+          "question": "Does it measure platelets?",
+          "answer": "Platelet count is typically included."
+        },
+        {
+          "question": "Can a differential be listed separately?",
+          "answer": "Additional testing can appear depending on what was performed."
+        }
+      ],
+      "status": "X",
+      "workRvu": 0.0,
+      "nonFacilityPeRvu": 0.0,
+      "facilityPeRvu": 0.0,
+      "mpRvu": 0.0,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "36415",
+      "category": "Lab tests",
+      "description": "Collection of a blood sample from a vein",
+      "billingPitfalls": [
+        "Several tubes drawn together do not necessarily mean multiple collection charges."
+      ],
+      "faqs": [
+        {
+          "question": "Does this pay for the blood tests?",
+          "answer": "It describes the collection itself."
+        },
+        {
+          "question": "Is it a fingerstick?",
+          "answer": "It describes a sample drawn from a vein."
+        },
+        {
+          "question": "Why can two providers appear on the bill?",
+          "answer": "A clinic may collect the sample while a lab performs the analysis."
+        }
+      ],
+      "status": "X",
+      "workRvu": 0.0,
+      "nonFacilityPeRvu": 0.0,
+      "facilityPeRvu": 0.0,
+      "mpRvu": 0.0,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "83036",
+      "category": "Lab tests",
+      "description": "Hemoglobin A1c test for average blood sugar",
+      "billingPitfalls": [
+        "Check repeat tests against dates, orders, and coverage rules."
+      ],
+      "faqs": [
+        {
+          "question": "Does this measure today's glucose?",
+          "answer": "It reflects blood sugar over roughly the past two to three months."
+        },
+        {
+          "question": "Can it be billed during diabetes follow-up?",
+          "answer": "Yes, it commonly appears for monitoring."
+        },
+        {
+          "question": "Does it identify at-home glucose readings?",
+          "answer": "It represents a test on a blood sample."
+        }
+      ],
+      "status": "X",
+      "workRvu": 0.0,
+      "nonFacilityPeRvu": 0.0,
+      "facilityPeRvu": 0.0,
+      "mpRvu": 0.0,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "84443",
+      "category": "Lab tests",
+      "description": "Blood test measuring thyroid-stimulating hormone",
+      "billingPitfalls": [
+        "A reflex order may trigger a separate thyroid hormone test."
+      ],
+      "faqs": [
+        {
+          "question": "Is this the same as free T4?",
+          "answer": "TSH and free T4 are separate measurements."
+        },
+        {
+          "question": "Why might a second thyroid test follow?",
+          "answer": "A reflex order may add testing based on the first result."
+        },
+        {
+          "question": "Can it appear during treatment monitoring?",
+          "answer": "Yes, clinicians may order it to monitor thyroid function."
+        }
+      ],
+      "status": "X",
+      "workRvu": 0.0,
+      "nonFacilityPeRvu": 0.0,
+      "facilityPeRvu": 0.0,
+      "mpRvu": 0.0,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "81001",
+      "category": "Lab tests",
+      "description": "Automated urine testing with microscopic examination",
+      "billingPitfalls": [
+        "Compare with urine testing without microscopy if both appear on the same sample."
+      ],
+      "faqs": [
+        {
+          "question": "Does this include a urine culture?",
+          "answer": "Culture is a separate test."
+        },
+        {
+          "question": "What does microscopy add?",
+          "answer": "It evaluates cells and other material in the urine."
+        },
+        {
+          "question": "Can collection be a separate charge?",
+          "answer": "Some collection methods may generate their own charges."
+        }
+      ],
+      "status": "X",
+      "workRvu": 0.0,
+      "nonFacilityPeRvu": 0.0,
+      "facilityPeRvu": 0.0,
+      "mpRvu": 0.0,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": false
+    },
+    {
+      "code": "71046",
+      "category": "Imaging",
+      "description": "Chest X-ray with two views",
+      "billingPitfalls": [
+        "Check view count and any professional or technical modifier."
+      ],
+      "faqs": [
+        {
+          "question": "Why are there two views?",
+          "answer": "They provide different perspectives of the chest."
+        },
+        {
+          "question": "Why did two entities bill it?",
+          "answer": "Image acquisition and interpretation can be separately billed."
+        },
+        {
+          "question": "Does a repeat image guarantee a second charge?",
+          "answer": "Ask whether separate studies were performed and documented."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.21,
+      "nonFacilityPeRvu": 0.76,
+      "facilityPeRvu": 0.76,
+      "mpRvu": 0.02,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "71045",
+      "category": "Imaging",
+      "description": "Chest X-ray with one view",
+      "billingPitfalls": [
+        "Compare with the two-view code when checking the same encounter."
+      ],
+      "faqs": [
+        {
+          "question": "Can a portable X-ray use this code?",
+          "answer": "A single-view portable chest study can be reported this way."
+        },
+        {
+          "question": "Does it cover both reading and imaging?",
+          "answer": "The global code can describe both, while modifiers may identify one component."
+        },
+        {
+          "question": "Can it appear daily in a hospital?",
+          "answer": "Separate medically necessary studies may be performed on separate dates."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.18,
+      "nonFacilityPeRvu": 0.56,
+      "facilityPeRvu": 0.56,
+      "mpRvu": 0.02,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "70551",
+      "category": "Imaging",
+      "description": "Brain MRI without contrast",
+      "billingPitfalls": [
+        "Verify whether the report documents contrast if another MRI code appears."
+      ],
+      "faqs": [
+        {
+          "question": "Does this use X-rays?",
+          "answer": "MRI uses magnetic fields and radio waves."
+        },
+        {
+          "question": "Is this a contrast-enhanced scan?",
+          "answer": "This code describes a study without contrast."
+        },
+        {
+          "question": "Who may bill for the reading?",
+          "answer": "The interpreting clinician may submit a separate professional claim."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.44,
+      "nonFacilityPeRvu": 4.31,
+      "facilityPeRvu": 4.31,
+      "mpRvu": 0.1,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "73721",
+      "category": "Imaging",
+      "description": "MRI of a lower-limb joint without contrast",
+      "billingPitfalls": [
+        "Check the body part and side if the bill includes multiple joint studies."
+      ],
+      "faqs": [
+        {
+          "question": "Does this code identify a knee only?",
+          "answer": "It can describe other lower-limb joints, such as the hip or ankle."
+        },
+        {
+          "question": "Does it include an injected contrast agent?",
+          "answer": "It describes imaging without contrast."
+        },
+        {
+          "question": "Can both knees generate separate lines?",
+          "answer": "Distinct studies can be reported with applicable payer and laterality rules."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.32,
+      "nonFacilityPeRvu": 4.71,
+      "facilityPeRvu": 4.71,
+      "mpRvu": 0.09,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "72148",
+      "category": "Imaging",
+      "description": "MRI of the lower spine without contrast",
+      "billingPitfalls": [
+        "Confirm the spinal region and whether contrast was actually used."
+      ],
+      "faqs": [
+        {
+          "question": "Does it include the neck?",
+          "answer": "It describes the lumbar region."
+        },
+        {
+          "question": "Is this the same as a CT scan?",
+          "answer": "MRI and CT use different imaging technology."
+        },
+        {
+          "question": "Can the interpreting physician bill separately?",
+          "answer": "A professional interpretation may appear on a separate claim."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.44,
+      "nonFacilityPeRvu": 4.2,
+      "facilityPeRvu": 4.2,
+      "mpRvu": 0.1,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "70450",
+      "category": "Imaging",
+      "description": "CT scan of the head without contrast",
+      "billingPitfalls": [
+        "Check for component billing when the hospital and radiologist both send bills."
+      ],
+      "faqs": [
+        {
+          "question": "Is this a head MRI?",
+          "answer": "It describes CT imaging."
+        },
+        {
+          "question": "Does it include an injection?",
+          "answer": "This code describes a scan without contrast."
+        },
+        {
+          "question": "Can it appear after a fall?",
+          "answer": "A clinician may order it when evaluating head injury."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.83,
+      "nonFacilityPeRvu": 2.3,
+      "facilityPeRvu": 2.3,
+      "mpRvu": 0.06,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "74177",
+      "category": "Imaging",
+      "description": "CT scan of the abdomen and pelvis with contrast",
+      "billingPitfalls": [
+        "Review the contrast documentation if other abdomen or pelvis CT codes appear."
+      ],
+      "faqs": [
+        {
+          "question": "Does this include both body regions?",
+          "answer": "Yes, it describes combined abdomen and pelvis imaging."
+        },
+        {
+          "question": "Does the code identify the contrast route?",
+          "answer": "Ask the imaging department to clarify the documented study protocol."
+        },
+        {
+          "question": "Can the radiology reading be billed separately?",
+          "answer": "Yes, depending on who provided each component."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.77,
+      "nonFacilityPeRvu": 7.09,
+      "facilityPeRvu": 7.09,
+      "mpRvu": 0.13,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "76700",
+      "category": "Imaging",
+      "description": "Complete abdominal ultrasound",
+      "billingPitfalls": [
+        "A limited exam has a different code, so compare it with the report."
+      ],
+      "faqs": [
+        {
+          "question": "Does this use radiation?",
+          "answer": "Ultrasound uses sound waves."
+        },
+        {
+          "question": "Does it cover a single organ scan?",
+          "answer": "It describes a complete abdominal examination under the applicable documentation requirements."
+        },
+        {
+          "question": "Is vascular Doppler always included?",
+          "answer": "Distinct vascular testing can have separate codes."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.79,
+      "nonFacilityPeRvu": 2.57,
+      "facilityPeRvu": 2.57,
+      "mpRvu": 0.06,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "73030",
+      "category": "Imaging",
+      "description": "Shoulder X-ray with at least two views",
+      "billingPitfalls": [
+        "Check the side if imaging was billed for both shoulders."
+      ],
+      "faqs": [
+        {
+          "question": "Does this include the entire arm?",
+          "answer": "It describes a shoulder study."
+        },
+        {
+          "question": "What if only one view was taken?",
+          "answer": "The code describes a study with two or more views."
+        },
+        {
+          "question": "Can the facility and radiologist both bill?",
+          "answer": "They can bill distinct technical and professional components."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.18,
+      "nonFacilityPeRvu": 0.87,
+      "facilityPeRvu": 0.87,
+      "mpRvu": 0.02,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "73562",
+      "category": "Imaging",
+      "description": "Knee X-ray with three views",
+      "billingPitfalls": [
+        "Check the radiology report for laterality and views."
+      ],
+      "faqs": [
+        {
+          "question": "Is this a knee MRI?",
+          "answer": "It is a plain radiograph."
+        },
+        {
+          "question": "Does the code specify which knee?",
+          "answer": "Laterality may be shown separately on the claim."
+        },
+        {
+          "question": "Can separate images stand for one study?",
+          "answer": "Three views collectively describe the coded exam."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.18,
+      "nonFacilityPeRvu": 1.07,
+      "facilityPeRvu": 1.07,
+      "mpRvu": 0.02,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "93000",
+      "category": "Cardiology",
+      "description": "Routine 12-lead ECG with recording and interpretation",
+      "billingPitfalls": [
+        "Compare component codes 93005 and 93010 before assuming an additional full ECG was performed."
+      ],
+      "faqs": [
+        {
+          "question": "What does the ECG record?",
+          "answer": "It records the heart's electrical activity."
+        },
+        {
+          "question": "Does this include the interpretation?",
+          "answer": "The global code includes recording and interpretation."
+        },
+        {
+          "question": "Does this represent a wearable heart monitor?",
+          "answer": "Extended monitoring uses other codes."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.17,
+      "nonFacilityPeRvu": 0.27,
+      "facilityPeRvu": 0.27,
+      "mpRvu": 0.02,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "93005",
+      "category": "Cardiology",
+      "description": "Recording a routine 12-lead ECG",
+      "billingPitfalls": [
+        "A separate 93010 line can identify the clinician's reading of the same tracing."
+      ],
+      "faqs": [
+        {
+          "question": "Does this cover the physician report?",
+          "answer": "It describes acquiring the tracing."
+        },
+        {
+          "question": "Why could the hospital send this bill?",
+          "answer": "The hospital may provide the technical component."
+        },
+        {
+          "question": "Is this a stress test?",
+          "answer": "Exercise stress testing uses different codes."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.0,
+      "nonFacilityPeRvu": 0.2,
+      "facilityPeRvu": 0.2,
+      "mpRvu": 0.01,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "93010",
+      "category": "Cardiology",
+      "description": "Reading and reporting a routine 12-lead ECG",
+      "billingPitfalls": [
+        "Check for overlap if a global 93000 charge appears for the same tracing."
+      ],
+      "faqs": [
+        {
+          "question": "Do I need a second ECG for this line?",
+          "answer": "The reading can be billed separately from the recording."
+        },
+        {
+          "question": "Can a cardiologist bill it?",
+          "answer": "A clinician who provides the interpretation may bill it."
+        },
+        {
+          "question": "Does this include attaching the leads?",
+          "answer": "Lead placement and acquisition are part of the tracing service."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.17,
+      "nonFacilityPeRvu": 0.07,
+      "facilityPeRvu": 0.07,
+      "mpRvu": 0.01,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "93306",
+      "category": "Cardiology",
+      "description": "Complete heart ultrasound through the chest with Doppler measurements",
+      "billingPitfalls": [
+        "Compare a limited study or repeat study with the report when multiple echo lines appear."
+      ],
+      "faqs": [
+        {
+          "question": "Does this require a probe in the esophagus?",
+          "answer": "This code describes imaging through the chest wall."
+        },
+        {
+          "question": "What does Doppler show?",
+          "answer": "It helps evaluate blood flow within the heart."
+        },
+        {
+          "question": "Is it the same as an ECG?",
+          "answer": "The echo images heart structure and motion."
+        }
+      ],
+      "status": "A",
+      "workRvu": 1.42,
+      "nonFacilityPeRvu": 4.39,
+      "facilityPeRvu": 4.39,
+      "mpRvu": 0.08,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "45378",
+      "category": "Endoscopy",
+      "description": "Diagnostic examination of the colon with a flexible scope",
+      "billingPitfalls": [
+        "A biopsy or polyp removal can change the code for the examination."
+      ],
+      "faqs": [
+        {
+          "question": "Can this appear after a screening appointment?",
+          "answer": "Billing can depend on the indication, payer, and what was performed."
+        },
+        {
+          "question": "Does this include biopsy?",
+          "answer": "Tissue sampling is represented by a different colonoscopy code."
+        },
+        {
+          "question": "Can sedation come on another bill?",
+          "answer": "Anesthesia or facility services may be separately itemized."
+        }
+      ],
+      "status": "A",
+      "workRvu": 3.18,
+      "nonFacilityPeRvu": 7.73,
+      "facilityPeRvu": 1.34,
+      "mpRvu": 0.41,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "45380",
+      "category": "Endoscopy",
+      "description": "Colonoscopy with tissue sampling",
+      "billingPitfalls": [
+        "The same biopsy technique is not necessarily billed once per tissue sample."
+      ],
+      "faqs": [
+        {
+          "question": "Does a biopsy mean cancer was found?",
+          "answer": "The code only indicates that tissue was collected."
+        },
+        {
+          "question": "Can pathology appear separately?",
+          "answer": "A lab may bill to examine the tissue."
+        },
+        {
+          "question": "Is this the same as snare removal?",
+          "answer": "Snare removal has its own procedure code."
+        }
+      ],
+      "status": "A",
+      "workRvu": 3.47,
+      "nonFacilityPeRvu": 10.48,
+      "facilityPeRvu": 1.43,
+      "mpRvu": 0.42,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "45385",
+      "category": "Endoscopy",
+      "description": "Colonoscopy with growth removal using a snare",
+      "billingPitfalls": [
+        "If a biopsy code also appears, ask whether it was performed on a distinct lesion."
+      ],
+      "faqs": [
+        {
+          "question": "What is a snare?",
+          "answer": "It is a loop used to remove tissue during the procedure."
+        },
+        {
+          "question": "Can pathology create a separate line?",
+          "answer": "Yes, if removed tissue is sent for analysis."
+        },
+        {
+          "question": "Can a screening become therapeutic?",
+          "answer": "Removal of a growth can change which codes and coverage rules apply."
+        }
+      ],
+      "status": "A",
+      "workRvu": 4.46,
+      "nonFacilityPeRvu": 10.0,
+      "facilityPeRvu": 1.72,
+      "mpRvu": 0.51,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "43239",
+      "category": "Endoscopy",
+      "description": "Upper digestive tract endoscopy with biopsy",
+      "billingPitfalls": [
+        "Check for separate pathology charges when tissue is collected."
+      ],
+      "faqs": [
+        {
+          "question": "Which areas can be viewed?",
+          "answer": "An upper endoscopy examines the esophagus, stomach, and upper small intestine."
+        },
+        {
+          "question": "Does this code require a tissue sample?",
+          "answer": "It describes an upper endoscopy in which a biopsy was taken."
+        },
+        {
+          "question": "Is sedation included in this estimate?",
+          "answer": "Separately billed sedation or anesthesia is outside the estimate."
+        }
+      ],
+      "status": "A",
+      "workRvu": 2.33,
+      "nonFacilityPeRvu": 9.94,
+      "facilityPeRvu": 1.1,
+      "mpRvu": 0.27,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "27447",
+      "category": "Surgery",
+      "description": "Total knee replacement",
+      "billingPitfalls": [
+        "Review separate hospital and implant charges alongside the surgeon's charge."
+      ],
+      "faqs": [
+        {
+          "question": "Does the estimate include the hospital stay?",
+          "answer": "The physician fee estimate covers the coded professional service."
+        },
+        {
+          "question": "Can surgeon follow-up be included?",
+          "answer": "Routine related care may be bundled in the global surgery period."
+        },
+        {
+          "question": "Is this a partial knee replacement?",
+          "answer": "It describes total knee replacement."
+        }
+      ],
+      "status": "A",
+      "workRvu": 19.11,
+      "nonFacilityPeRvu": 11.58,
+      "facilityPeRvu": 11.58,
+      "mpRvu": 4.02,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "27130",
+      "category": "Surgery",
+      "description": "Total hip replacement",
+      "billingPitfalls": [
+        "Distinguish initial replacement from revision surgery and check laterality."
+      ],
+      "faqs": [
+        {
+          "question": "What parts are replaced?",
+          "answer": "The hip socket and the ball at the upper femur are replaced."
+        },
+        {
+          "question": "Can anesthesia be billed separately?",
+          "answer": "Yes, anesthesiology can generate a separate claim."
+        },
+        {
+          "question": "Does the surgeon's fee include the implant invoice?",
+          "answer": "Facility and implant charges can be accounted for separately."
+        }
+      ],
+      "status": "A",
+      "workRvu": 19.11,
+      "nonFacilityPeRvu": 11.63,
+      "facilityPeRvu": 11.63,
+      "mpRvu": 4.05,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "66984",
+      "category": "Surgery",
+      "description": "Routine cataract removal with placement of an artificial lens",
+      "billingPitfalls": [
+        "Check which eye was treated and whether any upgraded lens services were separately charged."
+      ],
+      "faqs": [
+        {
+          "question": "Does it include a replacement lens?",
+          "answer": "The procedure includes placing an intraocular lens."
+        },
+        {
+          "question": "Is the complex cataract procedure coded differently?",
+          "answer": "Yes, complex surgery can use another code when criteria are met."
+        },
+        {
+          "question": "Why are there separate bills?",
+          "answer": "The surgeon, facility, and anesthesia provider may submit separate claims."
+        }
+      ],
+      "status": "A",
+      "workRvu": 7.17,
+      "nonFacilityPeRvu": 6.14,
+      "facilityPeRvu": 6.14,
+      "mpRvu": 0.54,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "59400",
+      "category": "Maternity",
+      "description": "Bundled prenatal care, vaginal delivery, and postpartum care",
+      "billingPitfalls": [
+        "Transfers of care can change whether a full global maternity package applies."
+      ],
+      "faqs": [
+        {
+          "question": "Does this include a cesarean birth?",
+          "answer": "Cesarean delivery uses a different code series."
+        },
+        {
+          "question": "Can ultrasound be separately billed?",
+          "answer": "Imaging may appear outside the global maternity package."
+        },
+        {
+          "question": "Does this include the baby's hospital bill?",
+          "answer": "Newborn care is billed separately."
+        }
+      ],
+      "status": "A",
+      "workRvu": 37.0,
+      "nonFacilityPeRvu": 18.76,
+      "facilityPeRvu": 18.76,
+      "mpRvu": 10.54,
+      "nonFacilityAvailable": false,
+      "facilityAvailable": true
+    },
+    {
+      "code": "90834",
+      "category": "Behavioral health",
+      "description": "Individual psychotherapy, typically the 45-minute service",
+      "billingPitfalls": [
+        "The code depends on documented psychotherapy time, which can differ from the appointment slot."
+      ],
+      "faqs": [
+        {
+          "question": "Does it represent a medication visit?",
+          "answer": "It describes psychotherapy."
+        },
+        {
+          "question": "Can this appear on a telehealth claim?",
+          "answer": "It can when the payer's telehealth conditions are met."
+        },
+        {
+          "question": "What if the appointment ran longer?",
+          "answer": "Documented psychotherapy time determines the applicable time-based code."
+        }
+      ],
+      "status": "A",
+      "workRvu": 2.56,
+      "nonFacilityPeRvu": 0.83,
+      "facilityPeRvu": 0.17,
+      "mpRvu": 0.02,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "90837",
+      "category": "Behavioral health",
+      "description": "Individual psychotherapy, typically the 60-minute service",
+      "billingPitfalls": [
+        "Check documented therapy time if a shorter session appears under this code."
+      ],
+      "faqs": [
+        {
+          "question": "How does it differ from 90834?",
+          "answer": "It represents a longer psychotherapy service."
+        },
+        {
+          "question": "Can two patients be billed under this code for group work?",
+          "answer": "Group psychotherapy uses different coding."
+        },
+        {
+          "question": "Can insurers have additional requirements?",
+          "answer": "Some plans apply authorization or documentation rules."
+        }
+      ],
+      "status": "A",
+      "workRvu": 3.78,
+      "nonFacilityPeRvu": 1.2,
+      "facilityPeRvu": 0.25,
+      "mpRvu": 0.02,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "90791",
+      "category": "Behavioral health",
+      "description": "Initial psychiatric diagnostic assessment",
+      "billingPitfalls": [
+        "A recurring therapy appointment generally uses a psychotherapy code when that is the service performed."
+      ],
+      "faqs": [
+        {
+          "question": "Can a therapist use this code at intake?",
+          "answer": "It can describe a qualifying initial diagnostic assessment."
+        },
+        {
+          "question": "Does it include medical services?",
+          "answer": "An assessment with medical services has a separate code."
+        },
+        {
+          "question": "Is medication prescribing implied?",
+          "answer": "This code describes diagnostic evaluation."
+        }
+      ],
+      "status": "A",
+      "workRvu": 3.84,
+      "nonFacilityPeRvu": 1.33,
+      "facilityPeRvu": 0.25,
+      "mpRvu": 0.02,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": true
+    },
+    {
+      "code": "97110",
+      "category": "Rehabilitation",
+      "description": "Therapeutic exercises for strength, flexibility, or movement",
+      "billingPitfalls": [
+        "For Medicare, check timed treatment minutes across the visit before comparing units."
+      ],
+      "faqs": [
+        {
+          "question": "What does one unit represent?",
+          "answer": "The code is reported in 15-minute units under applicable timed billing rules."
+        },
+        {
+          "question": "Can other therapy codes appear too?",
+          "answer": "Distinct documented interventions may be separately reported."
+        },
+        {
+          "question": "Does waiting time count?",
+          "answer": "Time without skilled treatment generally does not support timed therapy units."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.45,
+      "nonFacilityPeRvu": 0.41,
+      "facilityPeRvu": 0.41,
+      "mpRvu": 0.01,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "97140",
+      "category": "Rehabilitation",
+      "description": "Hands-on manual therapy to joints or soft tissues",
+      "billingPitfalls": [
+        "Check whether manual therapy and another intervention were counted during overlapping minutes."
+      ],
+      "faqs": [
+        {
+          "question": "Is this exercise training?",
+          "answer": "It describes hands-on treatment."
+        },
+        {
+          "question": "Can one appointment have multiple units?",
+          "answer": "Qualifying treatment minutes and payer rules determine units."
+        },
+        {
+          "question": "Is it the same as massage?",
+          "answer": "This code covers manual therapy techniques, and massage has separate coding."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.43,
+      "nonFacilityPeRvu": 0.39,
+      "facilityPeRvu": 0.39,
+      "mpRvu": 0.01,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    },
+    {
+      "code": "97530",
+      "category": "Rehabilitation",
+      "description": "Therapeutic activities that practice functional tasks",
+      "billingPitfalls": [
+        "Check that activities and therapeutic exercises were documented as distinct work before comparing timed units."
+      ],
+      "faqs": [
+        {
+          "question": "What is a functional activity?",
+          "answer": "Examples include practicing transfers or lifting tasks related to daily function."
+        },
+        {
+          "question": "Is it timed?",
+          "answer": "Yes, it is reported in 15-minute units under applicable rules."
+        },
+        {
+          "question": "Can an evaluation appear on the same day?",
+          "answer": "A distinct evaluation may be billed if performed and supported."
+        }
+      ],
+      "status": "A",
+      "workRvu": 0.44,
+      "nonFacilityPeRvu": 0.6,
+      "facilityPeRvu": 0.6,
+      "mpRvu": 0.01,
+      "nonFacilityAvailable": true,
+      "facilityAvailable": false
+    }
+  ]
+}

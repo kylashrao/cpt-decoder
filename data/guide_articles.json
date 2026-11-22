@@ -1,0 +1,343 @@
+{
+  "cpt-modifiers-25-and-59": [
+    {
+      "heading": "Read the suffix before counting visits",
+      "paragraphs": [
+        "A billing modifier is a short addition to a procedure or service code. It can communicate something about how a service was performed, who performed it, or why a line appears with another line. On a statement, modifiers may follow a dash, appear in a separate column, or be absent from the patient-facing display entirely. If your bill repeats a visit date or your insurer shows two services you remember as one appointment, ask for the underlying claim lines before deciding what happened.",
+        "Modifiers 25 and 59 answer different questions. Modifier 25 concerns a significant, separately identifiable evaluation and management service on the same day as a procedure or other service. Modifier 59 concerns a distinct procedural service when services would ordinarily be reported together and the facts and applicable billing rules support separate reporting. Neither changes the number of times you physically checked in. Both can affect whether a payer treats a service as separately payable and what ends up assigned to you."
+      ]
+    },
+    {
+      "heading": "Modifier 25 explains a separate evaluation or management service",
+      "paragraphs": [
+        "Consider an appointment scheduled for a minor procedure. The usual work surrounding that procedure may include checking the site, discussing what will happen, and providing routine aftercare instructions. That ordinary work generally belongs with the procedure. During the same appointment, suppose the clinician also evaluates new dizziness, reviews medicines, and creates a separate management plan. Whether the evaluation meets the billing criteria depends on the actual documentation and the applicable rules, but this is the type of distinction modifier 25 is intended to communicate.",
+        "If the office reports the separate service, the modifier appears on the evaluation and management line, such as an eligible office visit code, rather than on the procedure line. Ask which evaluation was performed beyond the usual work already associated with the procedure. A different diagnosis can help you understand the explanation, but the presence or absence of a different diagnosis alone does not settle whether the work was separate and significant. The coding office and plan can explain what criteria applied.",
+        "Another example is a routine preventive appointment during which the clinician also works up an ongoing symptom. A separate problem-focused service can appear alongside the preventive service when supported. The preventive component and the problem-focused evaluation may have different coverage and cost-sharing rules, even when both are medically appropriate. Ask which portion was processed as preventive and which portion triggered a copay, deductible, or coinsurance. Use your EOB to see which line made the difference."
+      ]
+    },
+    {
+      "heading": "Modifier 59 explains why a procedure was distinct",
+      "paragraphs": [
+        "Medicare’s National Correct Coding Initiative uses procedure-to-procedure edits to identify code combinations that generally should not be paid separately in the same circumstances. Some edits allow an appropriate modifier when documentation shows a valid exception. Other edits do not allow a modifier to override the edit. Modifier 59 can help identify a distinct non-evaluation service when the relevant conditions are met and a more specific modifier does not describe the circumstances better.",
+        "Think about two procedures on the same day that look related in a patient portal. One might treat a lesion in one location, while another addresses a genuinely separate lesion. Alternatively, the procedures may have happened at separate encounters. These facts may matter, but the example does not establish that any particular pair can be billed together. The code pair, site, timing, documentation, and payer rules all play a role. Ask the coding office to identify exactly what made the second service distinct.",
+        "CMS also recognizes modifiers XE, XP, XS, and XU for certain distinct-service circumstances. They can describe a separate encounter, practitioner, structure, or an unusual nonoverlapping service. Seeing one of these suffixes is a reason to ask for the same underlying explanation in plain language. Modifier 59 belongs with procedural services and should not be used to mark a separate evaluation and management visit. If the claim seems to use it that way, ask the provider to confirm the original line and review the coding."
+      ]
+    },
+    {
+      "heading": "Use both the provider and insurer records",
+      "paragraphs": [
+        "Obtain the itemized bill and the EOB or Medicare Summary Notice. Match the date, provider or billing group, code, modifier, units, and service site when available. If you see only broad descriptions such as “office visit” and “procedure,” request the claim-line detail. Look for the amount your plan allowed and the reason for any denial or adjustment. A remark about bundling can explain why a second line was submitted but generated no separate payment. A modifier on a line also does not prove the payer accepted it.",
+        "Then write your question so the provider can investigate one claim. For a modifier 25 line, ask the billing department to explain what separately identifiable evaluation took place beyond the procedure work. For a modifier 59 line, ask what made the services distinct and whether the payer accepted the modifier. If the situation involves a charge you do not recognize, give the date and exact line details and ask for a review. A request for clarification leaves room for either a legitimate explanation or a corrected claim."
+      ]
+    },
+    {
+      "heading": "Check who can change the answer",
+      "paragraphs": [
+        "The provider can review documentation and correct its claim if there was an error. The insurer can explain how it processed the code pair and whether your responsibility changed. Ask the insurer which line produced the amount due and which appeal deadline applies. If the provider intends to resubmit, ask for the corrected claim date and when a revised statement should appear. Keep both versions of the bill until you can see the result on the account.",
+        "A second charge is sometimes legitimate and sometimes a duplicate or coding problem. The quickest way to distinguish them is to focus on the additional work the modifier is meant to describe. First identify the exact line. Then ask for the factual reason the service was shown separately. Finally, follow the insurer’s decision through to the actual balance. A clear answer to each of those questions gives you a better basis for deciding whether to ask for a correction or appeal."
+      ]
+    }
+  ],
+  "er-visit-cpt-codes": [
+    {
+      "heading": "Identify what the emergency visit code represents",
+      "paragraphs": [
+        "A professional emergency department claim can use CPT 99281 through 99285 to describe the clinician’s evaluation and management work. The range is often described as levels 1 through 5. A higher code usually represents a more complex documented professional service within the series. The number is a billing classification. It does not tell you how urgently a triage nurse prioritized you, how severe your final diagnosis was, or what the entire visit should cost. Start by finding the code and the entity that billed it.",
+        "The clinician’s emergency visit line can appear alongside lab tests, X-rays, medications, procedures, and other services. A hospital may also report a facility emergency visit level for its own resources. For some hospital emergency departments the same code family can appear on both bills, even though the facility and clinician use different rules to select levels. Two matching numbers from two billing entities deserve a clear explanation, but the match alone does not establish a duplicate. Ask which line pays for the hospital’s resources and which line describes the professional service."
+      ]
+    },
+    {
+      "heading": "Read the five levels with their limits in mind",
+      "paragraphs": [
+        "99281 is the first level and can describe a basic emergency department service. Under applicable coding rules, the lowest level can include a service that does not require the presence of a physician or other qualified health professional. Check whether the statement shows a facility line, a clinician line, or both. A brief encounter and low-level code can still be associated with separate testing, treatment, or hospital charges.",
+        "99282 is the next professional level and generally corresponds to straightforward medical decision-making. 99283 generally corresponds to low complexity. Think of these as levels of evaluation and decisions documented during the encounter. A procedure or test alone does not set the level. It may be one part of the record, along with what the clinician evaluated and how the risks were managed. If the bill says simply “emergency visit” and you want to understand the level, ask for the complete code and which guidelines the billing entity used.",
+        "99284 generally corresponds to moderate medical decision-making. 99285 generally corresponds to high medical decision-making. A high level may reflect evaluation of a serious possibility even if testing later rules it out or the patient goes home. Several hours in the waiting room do not by themselves support a high professional level, and hospital admission does not automatically determine it. If critical care appears on the statement, ask how the billing office distinguished it from the ordinary emergency visit line. Critical care has separate requirements and codes."
+      ]
+    },
+    {
+      "heading": "Interpret costs using separate columns",
+      "paragraphs": [
+        "The clinician’s listed charge, the insurer’s allowed amount, the insurer’s payment, and your share are different figures. The hospital’s billed amount may include a facility emergency visit plus additional lines. For illustration, assume a physician evaluation has a $160 allowed amount and the hospital visit line has a $500 allowed amount. The combined allowed amount for those two lines is $660 before considering other services. That example makes no prediction about your visit, and your patient cost depends on how the insurer applies its benefits to each line.",
+        "Using the January 2026 CMS facility values and national geographic factors of 1.000, the nonqualifying APM professional benchmarks are $11.02 for 99281, $40.42 for 99282, $69.47 for 99283, $118.24 for 99284, $171.35 for 99285. These are one-unit fee schedule estimates for the clinician’s evaluation before claim-specific adjustments. Use the locality of the service to estimate a local rate and review a separately billed hospital fee on its own terms.",
+        "The 2026 Physician Fee Schedule estimate can help you understand an eligible professional line when you choose the correct Medicare locality and a facility setting. It uses relative values for the clinician’s work, practice expense, and malpractice, adjusted for geography. The result does not include the hospital’s facility payment, and your insurance may use a different price. Medicare data can mark a code or setting as unpriced or inapplicable. When the calculator lacks a valid estimate, ask the billing office or payer which method applies to the line."
+      ]
+    },
+    {
+      "heading": "Ask for the information that would explain the level",
+      "paragraphs": [
+        "Start with an itemized bill from the hospital and any separate clinician group. Request the dates, codes, modifiers, units, and charges. Ask the hospital which service lines represent emergency department resources and which are additional procedures or tests. Ask the clinician’s billing office to confirm its code and give a plain-language explanation of the documented evaluation. If both bills show a visit level, identify which organization chose each level and how each line was categorized on the EOB.",
+        "For example, suppose your statement has a hospital 99285 line and your EOB shows an emergency clinician 99284 line. Rather than asking why one number is wrong, ask the hospital what resources its code reflects and the physician group what evaluation its code reflects. Both can describe the same encounter under different billing methods. If the claim shows the wrong service date, a treatment you never received, or two complete professional evaluations from the same group that you cannot reconcile, identify those precise details in a request for review."
+      ]
+    },
+    {
+      "heading": "Follow the money through insurance",
+      "paragraphs": [
+        "If you have insurance, compare the patient share to the most recent EOB and check how emergency coverage, network status, and any relevant surprise billing protections were applied. Ask whether anything was applied to your deductible and whether the balance includes a payment you already made. A later adjustment can change both the claim and the provider’s statement, so keep dated versions of each. If you paid without insurance, ask the hospital about applicable self-pay discounts and financial assistance policies.",
+        "An emergency bill can raise questions about both coding and affordability. Resolve coding questions with the billing office and coverage questions with the payer. A price comparison can help you ask informed questions after care, and a qualified clinician can advise on medical decisions. Focus the review on the entity, service line, and amount that actually changed the balance. Those details tell you more about the cost than the level printed next to the visit."
+      ]
+    }
+  ],
+  "explanation-of-benefits-vs-bill": [
+    {
+      "heading": "Read the documents in the order they were created",
+      "paragraphs": [
+        "An Explanation of Benefits, or EOB, is an insurer’s record of what happened to a claim. It may arrive on paper or in a member portal after the provider submits the service. A medical bill comes from a provider or its billing agent and asks for payment on an account. A person can receive one before the other. A claim can also be reprocessed, which means the first EOB and first bill may describe an older balance. Start with the most recent version of each document and keep earlier versions for comparison.",
+        "An EOB can show a patient share even when the provider has already collected some of it. The provider’s balance may include an amount from a prior visit, a copay you already paid, or multiple claims. That difference is why it helps to find the service date, rendering provider, and claim number first. If a bill gives only an account balance, ask for an itemized statement. If the EOB gives only a high-level service description, ask the plan how to get line-level detail or have a representative read it with you."
+      ]
+    },
+    {
+      "heading": "Give each amount its own name",
+      "paragraphs": [
+        "The billed charge is the amount the provider submitted. The allowed amount is the amount the plan recognizes for processing a covered service under its rules. The plan payment is what the insurer paid toward the claim. Your share may be assigned to a copay, deductible, or coinsurance. A contractual adjustment may reduce what an in-network provider can collect. A noncovered amount is handled according to the reason for noncoverage and any rules governing whether the provider can bill you. Those categories matter far more than the largest dollar figure on the page.",
+        "Here is a hypothetical example. A provider submits $400 for a covered in-network service. The insurer allows $150, applies $50 to the remaining deductible, and pays 80% of the other $100. The plan pays $80. The patient share is $70, consisting of the $50 deductible and $20 coinsurance. The $250 difference between the charge and the allowed amount is an adjustment in this example. If the patient already paid $25 and the provider posted it correctly, the remaining bill should show $45 for this service. Actual plan rules can use a different allocation."
+      ]
+    },
+    {
+      "heading": "Compare line by line, even when totals look close",
+      "paragraphs": [
+        "Match the service date and entity, then the code, description, modifiers, and units when available. Two encounters can have the same code. One encounter can have more than one provider claim. If the EOB identifies a facility but the bill comes from an independent clinician group, look for the corresponding professional claim before comparing the balances. Record which document version you used so someone else can follow the same comparison.",
+        "Now trace the payment. Was the visit copay posted to this account? Did you pay a deposit that was applied to a different facility account? Did the provider list an insurance payment, and does the EOB show a payment amount or an adjustment instead? Matching these facts can resolve a discrepancy without a coding dispute. If the bill says “insurance pending” while the EOB shows a processed claim, ask whether the provider received the insurer’s remittance and when the statement will reflect it."
+      ]
+    },
+    {
+      "heading": "Read the reason code before deciding what to do",
+      "paragraphs": [
+        "An unpaid line can mean several things. The plan may apply the full allowed amount to a deductible. It may ask the provider for more information. It may treat the line as part of another covered service. It may deny the service for a stated coverage reason. Read any remarks or footnotes and ask the plan to explain whether the decision assigns the amount to you or requires action by the provider. The provider’s statement alone may give you little information about the reason.",
+        "If the insurer says the charge was denied because the claim needs a correction, ask whether the provider must resubmit it and whether you have a separate appeal deadline. If the plan says the service was excluded, ask for the applicable benefit provision and appeal instructions. A provider can fix a wrong code or submit documentation, while the insurer controls its claim decision. When the issue involves out-of-network billing, ask how network status, applicable protections, and the plan’s determination affected the amount."
+      ]
+    },
+    {
+      "heading": "Handle corrected claims and refunds methodically",
+      "paragraphs": [
+        "Suppose your first EOB shows $210 assigned to you. After the provider corrects the units, a revised EOB shows $90. A bill printed before the revision may continue to list $210 for a short time. Ask the provider when the revised insurer determination will post and request an updated statement. If you already paid $210 toward the same account, ask whether the $120 difference will be refunded or posted as a credit. Verify the payment date and amount and keep the old and new documents.",
+        "For a difficult case, write a summary in two or three sentences. For example, “The insurer’s revised EOB dated June 9 shows $90 patient responsibility for the May 14 visit. Your June 12 statement shows $210 and records no adjustment. Please confirm receipt of the revised remittance and send an updated statement.” This gives the billing office dates and amounts it can reconcile. Ask for a written reply and save the case reference if you call."
+      ]
+    },
+    {
+      "heading": "Know what the EOB cannot tell you on its own",
+      "paragraphs": [
+        "Your EOB may provide a link to your plan documents or an appeal notice. It does not explain every coding choice or show every payment you made at the front desk. Ask your insurer for plan-specific rules and your provider for the account ledger and service details. If you paid without using insurance, your main comparison might be a written estimate and the final itemized statement. If you have Original Medicare, the Medicare Summary Notice can help you review how Medicare processed the services on the notice.",
+        "Before paying or disputing a line, determine which encounter it belongs to, which version of the claim applies, and which amount represents your responsibility. If you cannot make the figures reconcile, identify the single missing fact that would resolve the question. That might be a portal receipt, an explanation of a remark code, or confirmation that the insurer reprocessed the correct claim. Keep checking applicable deadlines while waiting for the answer."
+      ]
+    }
+  ],
+  "facility-fees": [
+    {
+      "heading": "Start with the billing status of the location",
+      "paragraphs": [
+        "A clinic can look like an ordinary doctor’s office and still bill as a hospital outpatient department. A hospital-owned practice may keep the same sign, staff, and appointment schedule after a change in ownership. What matters for the bill is how the specific site and service are classified under the relevant payment and coverage rules. Hospital ownership alone does not tell you what will be billed. Ask the office how your appointment is expected to appear on both the professional and facility claims.",
+        "The professional component pays for clinician work and the practice expenses recognized for that setting. A facility charge can reflect the hospital’s resources, staffing, equipment, or other aspects of delivering outpatient care. It can appear on its own statement or in a statement that groups multiple charges. If your bill lists a physician visit and a hospital clinic service on the same date, check the issuer and description of each line. If the office changed billing status recently, ask which rules applied on your actual service date."
+      ]
+    },
+    {
+      "heading": "Why a visit can cost about twice as much",
+      "paragraphs": [
+        "A hypothetical example shows how a doubling can happen. Suppose a freestanding office visit has a $150 allowed amount. At a hospital outpatient department, the plan might allow $100 for a professional line and $200 for a separate facility line. In that example, the combined allowed amount is $300, twice the office amount, even though the professional line is lower. The figures illustrate the arithmetic and do not represent a national average, a Medicare rate, or a prediction about any appointment.",
+        "Your share can increase by a different percentage. Two copays might apply, or one part of the visit might have coinsurance and another a fixed copay. An unmet deductible can mean you pay much of the recognized amount until the deductible is satisfied. Insurer contracts, site-specific adjustments, state rules, and the mix of services all matter. Compare total expected patient responsibility instead of using the hospital’s sticker price or a single professional rate as a shortcut."
+      ]
+    },
+    {
+      "heading": "Understand where the physician estimate stops",
+      "paragraphs": [
+        "The Medicare Physician Fee Schedule has different practice expense values for many services depending on the setting. In a freestanding office, the clinician’s practice can supply the room, staff, or equipment. In a facility, the hospital may supply resources that are paid under another system. A lower facility-setting physician amount therefore does not imply a lower total visit price. The clinician-only facility estimate on this site leaves out the hospital’s own outpatient payment and any separate lab, imaging, medication, or other charge.",
+        "MedPAC has examined Medicare payment differences between hospital outpatient departments, ambulatory surgical centers, and freestanding clinician offices. It has recommended aligning rates for selected services when the service can safely and appropriately be delivered in a lower-cost setting. This is a policy recommendation about particular services and payment systems. Some hospital care needs capabilities that a smaller office may lack, and the research does not establish a fixed price ratio for all appointments."
+      ]
+    },
+    {
+      "heading": "Ask about both bills before a scheduled visit",
+      "paragraphs": [
+        "Call the scheduling office and provide the location and planned service. Ask whether the site bills as a hospital outpatient department, whether a separate hospital charge is expected, which entities may bill, and which codes the office expects to report. Request the information in writing if possible. If the scheduler cannot answer, ask for the billing or patient estimate department. A quoted fee from the clinician’s office may cover only that clinician.",
+        "Then call the insurer with the location, billing entities, and expected service codes. Ask whether both the facility and professional group are in network and how each is handled under your benefits. Compare expected patient costs for other clinically appropriate sites with your clinician’s input. For uninsured or self-pay scheduled care, ask for a written good faith estimate and which entities it covers. Confirm whether additional providers will issue their own estimates. A scheduled estimate can change if the services you receive change."
+      ]
+    },
+    {
+      "heading": "Review a facility charge you did not expect",
+      "paragraphs": [
+        "Request itemized statements from both issuers. Match the service dates, addresses, provider names, and claim numbers. Ask which line represents the facility charge and whether the site was correctly classified on the visit date. If you received a written estimate or a statement that listed only an office copay, attach a copy through the provider’s secure billing channel and ask how the final statement differs. The insurer can explain the network determination and which plan benefit was used for the facility line.",
+        "A useful request might read, “I expected an office visit at this address. The statement shows a separate hospital clinic fee. Please identify the facility line, explain the site’s billing classification on the service date, and confirm whether my estimate included it.” This prompts a check of the claim and the estimate without assuming the charge was improper. If cost is the issue, ask separately about discounts, financial assistance, or a payment plan. If the issue is a possible coding error, ask for a documented billing review."
+      ]
+    },
+    {
+      "heading": "Treat the total patient cost as the comparison",
+      "paragraphs": [
+        "A hospital outpatient site and a freestanding office can produce similar clinician charges and very different overall bills. Use the clinician benchmark only for the clinician line, then compare the facility and ancillary charges through your own payer and provider information. Keep professional fees, facility fees, and the amount actually assigned to you in separate columns. If you can trace each line to a source and a coverage rule, you can distinguish a real price difference from a mismatch between two kinds of bills.",
+        "When comparing options in advance, discuss suitability and access with a qualified clinician. Price is one part of the decision, alongside continuity of care, scheduling, accessibility, and safety. If you already received the care, focus your questions on the billing entity, the site classification, and the patient balance. Those details are the fastest way to learn whether the higher total reflects a facility fee, additional services, a plan rule, or a correctable error."
+      ]
+    }
+  ],
+  "itemized-hospital-bill": [
+    {
+      "heading": "Get the version that shows the work",
+      "paragraphs": [
+        "A hospital statement usually answers the question the billing office cares about first: how much the account shows as due. To review the charge, ask for an itemized statement by encounter or date of service. You want each line, the date, a readable description, the available procedure or revenue code, modifiers, quantity, charge, payments, contractual adjustments, and the remaining patient balance. If the statement includes several encounters or a family account, specify the one you are checking. A precise request gives the billing office something it can fulfill without guessing which visit you mean.",
+        "Start with the provider’s verified billing number or patient portal. Say that you are reconciling the statement and ask for a downloadable or mailed copy that includes the line-level charges. Some offices call it a detailed statement, charge detail, or itemized bill. Ask whether any clinicians bill separately and which groups were involved. Emergency physicians, radiologists, anesthesiologists, pathologists, and other outside groups can have their own statements, account numbers, and payment addresses. A hospital’s itemization usually explains its own account. You may need a separate request to understand the whole episode."
+      ]
+    },
+    {
+      "heading": "Collect the documents you will compare",
+      "paragraphs": [
+        "Put the hospital statement, any professional bill, the insurer’s Explanation of Benefits, and your payment receipts side by side. Keep the first two pages of a statement even if the amounts repeat. A cover page may show a statement date or account number, while a later page shows a service date. If the bill came from a provider portal, download a copy before an adjustment changes it. The insurer may display multiple versions of the same claim after a correction, so record the claim number and processing date.",
+        "Build a short worksheet with one row for each questionable charge. Record the issuer, service date, item description, code if shown, modifier, units, line charge, and patient responsibility where available. Include your exact question in the last column. A statement total and a line-level allowed amount describe different things, so match comparable entries. If the insurer groups several billed lines into one summarized service, ask for more details before deciding which line changed the amount you owe."
+      ]
+    },
+    {
+      "heading": "Separate repeats from possible duplicates",
+      "paragraphs": [
+        "Look for two lines from the same billing entity with the same date, code, and quantity. Then check whether the dates, times, units, or modifiers supply an explanation. A medicine can be given twice during one encounter. The same procedure can be repeated for a documented clinical reason. A lab result or imaging report may identify a second specimen or a different site. Duplicate-looking labels are a signal to ask a question, especially when a plain-language statement hides the details that distinguish the lines.",
+        "Also look for a charge paired with a reversal. A hospital can post a charge, reverse it, and post a corrected version. The repeated amount looks suspicious if you view only the positive entries. Add the signed amounts and check which transactions contribute to the balance. If the statement omits reversals or looks internally inconsistent, ask the office for the current ledger and an explanation of which entry remains active. Compare the revision with your earlier copy so an adjustment is easy to find."
+      ]
+    },
+    {
+      "heading": "Check professional and facility charges separately",
+      "paragraphs": [
+        "Two bills for one X-ray could reflect two different services: acquiring the images and interpreting them. The hospital may supply the room and equipment, while a physician group bills for the reading. Ask whether the bills represent technical and professional components or a complete service. Compare the entities on the statements and any modifiers shown on the claim. If both issuers say they billed the complete service, that is a specific question you can send to both offices.",
+        "Quantity deserves its own review. An infusion can have a medication line and an administration line. The billed units may follow a billing unit defined by the code instead of the number of packages you remember seeing. A line that says “10 units” needs an explanation of its unit size and how it maps to the service. Ask for a plain-language account of the quantity. Keep dosing and treatment questions separate and direct them to a clinician."
+      ]
+    },
+    {
+      "heading": "Write a narrow request for review",
+      "paragraphs": [
+        "Imagine seeing two $180 supply lines on the same date and an insurer summary that lists one combined charge. A useful message identifies the bill, points to both $180 entries, asks whether they represent separate supplies or a reversed posting, and requests a corrected statement if one line was posted twice. You can also ask how any correction will flow to the insurer and whether the account will be placed on hold while the office reviews it. Ask for confirmation of a hold because a request alone does not change a deadline or collection status.",
+        "Use a secure provider channel for documents and account identifiers. Send the pages needed to show the discrepancy and retain the originals. Save a copy of the message, note who responded, and ask for a time frame. If the explanation is verbal, ask for a written response or make a dated note that captures what the representative said. If the insurer needs to reprocess the claim, check for a new EOB before assuming the provider’s revised balance is final."
+      ]
+    },
+    {
+      "heading": "Decide where to take an unresolved issue",
+      "paragraphs": [
+        "The billing office can explain or correct its charge entry. The insurer can explain how it processed the claim, whether a line was covered, and which appeal steps apply. For suspected surprise billing, federal and state resources may be relevant. For an affordability problem, ask about financial assistance and payment policies separately from the coding review. Keep checking any due dates while the offices investigate, especially if you have an appeal deadline or collection notice.",
+        "The goal of an itemized review is a balance you can trace from services to charges, insurance adjustments, and payments. If the office shows that the apparent repeat was a valid second service, the review still helped clarify the account. If a line was charged in error, ask for the corrected bill, any reprocessed EOB, and information about a refund or credit when appropriate. Keep all three together until the account reflects what the office agreed to do."
+      ]
+    }
+  ],
+  "medical-billing-dispute-letter": [
+    {
+      "heading": "Choose the recipient based on the decision you want changed",
+      "paragraphs": [
+        "A dispute letter works best when it reaches the office that can address the specific problem. A hospital or clinician can review charges, verify coding, post missing payments, and submit a corrected claim. An insurer can explain or reconsider coverage and cost sharing. The office that sent a collection notice may need a separate response. Start by locating the contact instructions on your latest bill, EOB, or notice. A billing review request is an informal step and does not replace an insurer appeal, collection response, or federal filing.",
+        "Define the issue in one sentence. “The same supply appears twice on the May 3 statement” is a coding or charge question. “The EOB shows $75 due and the provider is asking for $160” is a reconciliation question. “The plan says the hospital was out of network during emergency care” may call for a review of the insurer’s decision and applicable protections. If the dispute involves several claims, give each one a short entry so the recipient can answer separately."
+      ]
+    },
+    {
+      "heading": "Assemble only the evidence needed to explain the issue",
+      "paragraphs": [
+        "Get the most recent itemized bill, any relevant EOB, receipts, and a written estimate or authorization if you have one. Note the service date and the statement or processing date. These differ and establish which version you are disputing. If you are asking about a missed insurance payment, highlight the line on the EOB that shows the payer’s determination. If you are asking about a duplicate, identify both lines and whether they list identical codes, modifiers, or units.",
+        "Make copies and retain the originals. Use the billing office’s secure portal or designated mailing address to send identifying information. Include the account or claim reference the recipient needs and omit unrelated information about the patient or other encounters. Ask for a case or ticket number when an office logs the request. A record of when you sent the letter can help you follow up and distinguish the billing review from any formal deadline."
+      ]
+    },
+    {
+      "heading": "Ask for a specific action and a written response",
+      "paragraphs": [
+        "Begin with the service date, account reference, and the reason for your request. Then explain the discrepancy using numbers or a short timeline. End by asking the office to do something it can confirm. That could be reviewing two charge lines, providing an itemized bill, correcting a unit count, applying a receipt, reprocessing a claim, or explaining a charge in writing. Resist making several unrelated demands in one paragraph. A reviewer should be able to identify which department and records are needed.",
+        "For a hypothetical example, “The itemized statement dated July 10 lists two identical supply entries for my June 18 encounter. Both show one unit and a $140 charge. Please identify the supplies delivered for each line and reverse any duplicate. If a corrected claim is needed, please confirm the date you submit it and provide a revised statement after the plan processes it.” This gives the office a primary question and describes what the patient expects to receive if an error is found."
+      ]
+    },
+    {
+      "heading": "Use benchmarks and laws carefully",
+      "paragraphs": [
+        "A 2026 Medicare professional fee estimate can help frame a request to explain an unusually high clinician charge. Include the specific code, locality, setting, and fee schedule year if you cite it. A Medicare benchmark is a reference for comparison. It does not establish the amount a commercial plan owes or the patient’s legal balance. If the service took place in a hospital, ask the billing office to identify the separate facility charge rather than comparing the entire encounter with a clinician rate.",
+        "If the federal No Surprises Act may apply, state the relevant facts, such as emergency care or a scheduled visit to an in-network facility with an out-of-network clinician. Ask the plan to explain the patient share and the provider to review any balance bill. For uninsured or self-pay care, a written good faith estimate may be relevant to a different federal process. A difference of at least $400 for the same provider can qualify if other criteria and deadlines are met. Use CMS instructions to confirm eligibility and file a formal dispute."
+      ]
+    },
+    {
+      "heading": "Manage deadlines while the office reviews the bill",
+      "paragraphs": [
+        "Ask the billing office whether it will place the account on hold and get that answer in writing. Keep a calendar for payment dates, appeal deadlines, federal filing deadlines, and any office response dates. An unanswered letter does not stop those clocks. If the EOB says you need to appeal by a particular date, follow the payer’s formal instructions even if the provider is looking into a billing correction. Ask which documents the appeal requires and save proof of submission.",
+        "Be explicit when you follow up. “Your office confirmed receipt of the coding review request on August 4. Please provide the review status and let me know whether you need the highlighted statement.” Use the case number if one was assigned. If the office says an insurer must act first, ask when the claim was sent and whether the plan received it. Keep factual notes so you can explain the timeline to another representative without restarting the entire conversation."
+      ]
+    },
+    {
+      "heading": "Close the loop on adjustments and refunds",
+      "paragraphs": [
+        "If the office finds an error, ask for the corrected statement, any revised EOB, and confirmation of where a credit or refund will go. If the office finds no error, request the factual basis for that decision and check whether an appeal or complaint is available. You may decide the issue is an affordability problem rather than a coding error. In that case, ask about financial assistance or payment options separately and request any agreed terms in writing.",
+        "A useful dispute letter gives the reviewer a line to investigate, evidence to check, and a specific response to deliver. Keep the request focused on facts you can document. When the review is over, compare the revised balance to your own records and keep the correspondence until all related payments and adjustments have posted."
+      ]
+    }
+  ],
+  "medicare-part-b-coinsurance": [
+    {
+      "heading": "Start with the Medicare-approved amount",
+      "paragraphs": [
+        "For many covered Original Medicare Part B services, the patient typically pays 20% of the Medicare-approved amount after meeting the deductible when the provider accepts assignment. The approved amount can differ from the provider’s original charge. Part B also has a premium, which is separate from the deductible and the charge for a particular service. The standard Part B annual deductible for 2026 is $283. Use the amount for the year of service when comparing bills from different calendar years.",
+        "The 80/20 shorthand illustrates a common cost-sharing rule. It assumes a covered service subject to the standard split, a provider who accepts assignment, and a deductible that has already been met. Some preventive services, hospital outpatient services, and other benefits have different cost-sharing rules. Certain outpatient services can have a copayment distinct from the clinician’s coinsurance. Medicare Advantage plans have their own terms. If you have a supplemental policy or other coverage, it may pay some amounts Original Medicare assigns to you."
+      ]
+    },
+    {
+      "heading": "Work through three deductible scenarios",
+      "paragraphs": [
+        "Assume a covered clinician service has a $160 Medicare-approved amount, the provider accepts assignment, and the service is subject to standard Part B coinsurance. If your deductible is already met, estimate $32 for the patient and $128 for Medicare. A $400 amount on the provider’s original charge line does not change the illustrative $160 base. The balance the billing office sends can still reflect money you paid upfront or a payment from supplemental insurance.",
+        "Now assume $60 of your yearly deductible remains. In this example, the first $60 of the approved amount goes toward the deductible. The remaining $100 is subject to the standard split. Twenty percent of $100 is $20, so the estimated patient responsibility is $80 in total: $60 toward the deductible and $20 in coinsurance. Medicare’s estimated share is $80. Applying 20% to the full $160 and then adding $60 would count coinsurance on the part already used to satisfy the deductible.",
+        "Finally, assume $200 of the deductible remains. The entire $160 approved amount can be applied to the deductible in this example. The estimated patient share is $160, Medicare pays nothing on that line, and $40 remains toward the yearly deductible. If a claim is denied as noncovered, the arithmetic can be different, and you should check the reason and whether the charge is assigned to you. The worksheet applies only to services processed toward the Part B deductible under the stated assumptions."
+      ]
+    },
+    {
+      "heading": "Understand what accepting assignment changes",
+      "paragraphs": [
+        "When a clinician accepts assignment for a covered service, the Medicare-approved amount serves as payment in full for the service, subject to your deductible and coinsurance and other applicable rules. A provider who does not participate in Medicare may still accept assignment for an individual service. When assignment is not accepted, different rules, including a limiting charge for some services, can apply. Ask about the specific provider and service. Confirm whether a provider takes Medicare and whether the provider accepts assignment on your claim.",
+        "If a provider opted out of Medicare, you may have a private contract with a different payment arrangement. Check the terms and ask Medicare or a qualified counselor when you are uncertain. Also check whether there is a separate facility bill. The physician fee for a hospital outpatient service and the hospital’s own charges are processed differently. An office estimate cannot tell you the cost of a hospital encounter with several services."
+      ]
+    },
+    {
+      "heading": "Use a physician fee estimate as a starting point",
+      "paragraphs": [
+        "The Physician Fee Schedule uses relative value units for work, practice expense, and malpractice. Each is adjusted by a geographic practice cost index for the chosen locality. Add the three adjusted components and multiply by the applicable conversion factor. This site uses $33.4009 for 2026 nonqualifying Alternative Payment Model clinicians. CMS publishes a distinct factor for qualifying participants. The place of service matters because practice expense values often differ between facility and non-facility settings.",
+        "Use one professional claim line and check its code, locality, setting, units, and modifiers. The National Average selector uses geographic factors of 1.000 as a reference. A local fee estimate does not settle whether the claim is covered or whether payment edits change the amount. Clinical lab services or hospital facility charges often use other payment methods. When the source does not support an estimate for the code and setting, use the payer’s claim information or contact the billing office."
+      ]
+    },
+    {
+      "heading": "Verify the amount on your Medicare Summary Notice",
+      "paragraphs": [
+        "Your Medicare Summary Notice lists services billed to Original Medicare, what Medicare paid, and the maximum you may be billed based on the claim shown. Check the service date and provider, then find the amounts approved and applied to the deductible. Compare them with the provider’s bill and your payment receipts. If you have supplemental coverage, look for that insurer’s determination before concluding the provider’s current figure reflects the final balance.",
+        "Suppose your notice says $80 may be billed, your supplemental insurer paid $30 for that same line, and your receipt shows you already paid $20. If all payments were applied properly, the remaining balance for that line would be $30. Ask for an account ledger if the office shows a higher amount. If you think Medicare made the wrong coverage or payment determination, read the appeal instructions and deadline on the notice. A clinician’s estimate cannot replace that formal process."
+      ]
+    },
+    {
+      "heading": "Keep a simple worksheet for future bills",
+      "paragraphs": [
+        "Write down the approved amount, the deductible remaining before the service, the part applied to that deductible, the remaining amount subject to coinsurance, and any payments already made. For the common 20% case, add the deductible portion to 20% of the remaining approved amount. Then account for secondary coverage and prior payments. Bring the worksheet to the billing office or insurer if a figure does not reconcile. A clear set of assumptions makes it easier to identify which number, coverage rule, or payment needs a second look."
+      ]
+    }
+  ],
+  "no-surprises-act": [
+    {
+      "heading": "Match the bill to the protection that could apply",
+      "paragraphs": [
+        "An out-of-network bill can come from an emergency physician, a hospital, an air ambulance operator, or a clinician who treated you during a scheduled visit at an in-network facility. The federal No Surprises Act generally limits out-of-network cost sharing and balance billing for many services in those situations when a group or individual health plan covers the care. It does not turn every out-of-network charge into a protected claim. Begin by identifying who billed you, where you received care, what the EOB says, and whether you were using insurance.",
+        "For scheduled nonemergency care, the network status of both the facility and the clinician can matter. A service related to a visit to an in-network hospital, hospital outpatient department, or ambulatory surgery center may qualify even when an individual clinician is out of network. Care you knowingly schedule at an out-of-network facility can be different. Some providers may use a notice and consent process in limited situations. Many ancillary services and certain other situations have protections that cannot be waived through that process. Ask for a copy of any paperwork the provider says affects your rights."
+      ]
+    },
+    {
+      "heading": "Separate the plan’s calculation from the provider’s demand",
+      "paragraphs": [
+        "A useful first check is to compare the insurer’s patient responsibility with the provider’s bill for the same claim. Imagine that an emergency physician sends a $900 balance after payment, while your EOB assigns $180 to you. Ask the plan whether it processed the service under surprise billing protections and which amount it considers the proper in-network cost share. Then ask the provider to explain why its bill exceeds the EOB figure and whether it will adjust the balance. Keep the figures tied to the same service date and claim.",
+        "If the federal protections apply, your plan generally calculates your share under the applicable in-network rules and the provider generally cannot bill you beyond the permitted amount. You may still owe a deductible, copay, or coinsurance. The amount your plan ultimately pays the provider can be a separate issue between those parties. A Medicare benchmark may help frame a voluntary discussion about a professional service, but it does not determine the negotiated payment or your legal balance under the No Surprises Act."
+      ]
+    },
+    {
+      "heading": "Send a factual review request before negotiating dollars",
+      "paragraphs": [
+        "Write to the billing office and the plan using secure channels. Identify the encounter and exact line at issue. State facts you can document, such as an emergency visit, a facility listed as in network, or an ancillary clinician who billed independently. Ask the plan to explain the basis for the cost sharing and the provider to review whether the charge complies with applicable balance-billing rules. Include the relevant EOB and its processing date. If you received a signature form, request a copy of it and the estimate it accompanied.",
+        "If the provider agrees the bill should change, ask for a revised statement and a written explanation of the corrected amount. If it disagrees, ask which facts or rules led to its conclusion. A short request that points to the specific line and asks for a specific adjustment is easier to investigate than a general allegation about high prices. If the problem is affordability after a correct determination, ask separately about financial assistance, a discount, or a payment arrangement. Request the terms of any proposed settlement in writing before relying on it."
+      ]
+    },
+    {
+      "heading": "Use a different process when you paid without insurance",
+      "paragraphs": [
+        "If you did not have insurance or chose not to use it, the relevant federal protection may be a written good faith estimate for scheduled care. Collect the estimate and final bill from the same provider or facility. When that provider’s billed charges are at least $400 above its estimate, the federal patient-provider dispute process may be available if the other requirements are met. CMS requires a timely filing, generally within 120 calendar days of the date on the initial bill. Compare the same provider’s figures rather than adding unrelated bills together.",
+        "For example, a provider estimates $700 for a scheduled service and sends a $1,150 initial bill. The $450 difference meets the dollar threshold in that example. Eligibility still depends on factors such as whether you received a qualifying estimate and filed on time. A fee schedule figure or informal verbal quote cannot substitute for the provider’s good faith estimate in this process. If you expected an estimate and never received one, ask CMS about complaint options and request an explanation from the billing office."
+      ]
+    },
+    {
+      "heading": "Escalate when the relevant parties disagree",
+      "paragraphs": [
+        "If the insurer denies or processes a claim incorrectly, ask how to start a formal appeal and which deadline applies. If a covered provider or plan appears to have violated federal surprise billing rules, CMS can help direct a complaint. In some cases, state insurance resources or state surprise billing laws may apply. Ground ambulance services generally fall outside the federal surprise billing protections, though state protections may differ. Coverage and plan type matter, so ask the appropriate help desk where to take the case.",
+        "Keep a timeline that includes the bill date, claim dates, telephone calls, letters, and any promised review period. Record which office said it would act and whether it confirmed a pause in collection activity. Sending a letter or starting a conversation does not automatically stop deadlines. If you receive a new notice while the dispute is open, check what action or response it requires. Use official filing instructions if you are pursuing a formal complaint, appeal, or dispute."
+      ]
+    },
+    {
+      "heading": "Define what a resolution should show",
+      "paragraphs": [
+        "A successful review should leave you with an account balance you can explain. The insurer may reprocess the claim, the provider may remove an improper balance, or the offices may document why the original charge is allowed. Compare any updated EOB with the revised bill. If you paid more than the corrected balance, ask whether the provider will issue a refund or account credit. Keep both documents and confirmations until the numbers agree. That paper trail is useful even when a negotiated adjustment, rather than a legal finding, ultimately resolves the bill."
+      ]
+    }
+  ]
+}
