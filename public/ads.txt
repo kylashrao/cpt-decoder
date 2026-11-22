@@ -1,2 +1,3 @@
 # Placeholder only. Replace with the publisher record issued by Google when ads are approved and activated.
 # google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-2824959172169836, DIRECT, f08c47fec0942fa0
